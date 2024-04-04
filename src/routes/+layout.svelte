@@ -9,7 +9,7 @@
 		<div class="navbar bg-base-100">
 			<div class="flex-1">
 				<button>
-					<a class="btn-ghost btn text-xl normal-case">{appName}</a>
+					<a class="btn btn-ghost text-xl normal-case">{appName}</a>
 				</button>
 			</div>
 			<div class="flex-none">
